@@ -1,0 +1,10 @@
+C:\Users\45136\source\repos\TallyMark\TallyMark\bin\Debug\TallyMark.exe.config
+C:\Users\45136\source\repos\TallyMark\TallyMark\bin\Debug\TallyMark.exe
+C:\Users\45136\source\repos\TallyMark\TallyMark\bin\Debug\TallyMark.pdb
+C:\Users\45136\source\repos\TallyMark\TallyMark\obj\Debug\TallyMark.csprojAssemblyReference.cache
+C:\Users\45136\source\repos\TallyMark\TallyMark\obj\Debug\TallyMark.Form1.resources
+C:\Users\45136\source\repos\TallyMark\TallyMark\obj\Debug\TallyMark.Properties.Resources.resources
+C:\Users\45136\source\repos\TallyMark\TallyMark\obj\Debug\TallyMark.csproj.GenerateResource.cache
+C:\Users\45136\source\repos\TallyMark\TallyMark\obj\Debug\TallyMark.csproj.CoreCompileInputs.cache
+C:\Users\45136\source\repos\TallyMark\TallyMark\obj\Debug\TallyMark.exe
+C:\Users\45136\source\repos\TallyMark\TallyMark\obj\Debug\TallyMark.pdb

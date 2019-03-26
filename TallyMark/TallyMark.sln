@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.489
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TallyMark", "TallyMark\TallyMark.csproj", "{2449FD43-CEA3-4C83-8BD4-893191B8DC26}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2449FD43-CEA3-4C83-8BD4-893191B8DC26}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2449FD43-CEA3-4C83-8BD4-893191B8DC26}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2449FD43-CEA3-4C83-8BD4-893191B8DC26}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2449FD43-CEA3-4C83-8BD4-893191B8DC26}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {100B7FE3-6D2A-4899-847E-84C587C0BBD4}
+	EndGlobalSection
+EndGlobal
